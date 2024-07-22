@@ -11,7 +11,7 @@
         <h2>Welcome to my profile, I'm Caio Balduino, Front-End Developer and it's an honor to have you here! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="50" height="50" /></h2> 
       </div>
         ◉ I am a systems analysis and development student. </br>
-        ◉ I also like UX/UI Design (My Instagram will be my portfolio, visit it). </br>
+        ◉ I also like UX/UI Design. </br>
         ◉ Creative, explorer and seeker. </br>
         ◉ I like to communicate and share experiences, just as I like to learn. </br>
         ◉ This is my current and main stack: HTML5 CSS3, NodeJs, JavaScript, React, style-components, React Vite, and a basic knowledge of Java.
