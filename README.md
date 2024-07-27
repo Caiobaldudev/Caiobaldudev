@@ -26,7 +26,7 @@
 <div align='center'>
   (coding some projects...)</br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="100" height="100" /></br>
-  <img src="https://skillicons.dev/icons?i=windows,html,css,js,nodejs,react,tailwind,vite,figma,ps,vscode,git,github,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows,html,css,js,nodejs,react,bootstrap,tailwind,vite,figma,ps,vscode,git,github,java&theme=dark" />
     <div align="center">   
       <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Caiobaldudev&show_icons=true&count_private=true&title_color=ADFF2F&icon_color=ADFF2F&text_color=ADFF2F&bg_color=0d1117&border_color=ADFF2F" /> 
       <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiobaldudev&layout=compact&title_color=ADFF2F&text_color=ADFF2F&bg_color=0d1117&border_color=ADFF2F" /> 
