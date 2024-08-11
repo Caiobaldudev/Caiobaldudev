@@ -4,7 +4,7 @@
 const caio = {
   surname: "balduino",
   code: [HTML, CSS, JavaScript, Typescript, Java],
-  tools: [React, Redux, Node, Styled-Components, Bootstrap],
+  tools: [React, React Vite, Redux, Node, Styled-Components, Bootstrap, Tailwind, Figma],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "My current focus is to be proficient in React and have a good knowledge of JavaScript/Typescript."
 }
