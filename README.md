@@ -6,7 +6,7 @@ const caio = {
   code: [HTML, CSS, JavaScript, Typescript, Java],
   tools: [React, React Vite, Redux, Node, Styled-Components, Bootstrap, Tailwind, Figma],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "My current focus is to be proficient in React and have a good knowledge of JavaScript/Typescript."
+  challenge: "Currently focused on advancing data analysis skills with Python, SQL, and Power BI, while enhancing front-end expertise with React and deepening knowledge in data-driven development."
 }
 ```
 <div align='center'>
@@ -15,7 +15,7 @@ const caio = {
         
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="40" height="40" /> Find me here:
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-balduino/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiobalduino/)
 
 <div align='center'>
   (coding some projects...)</br>
